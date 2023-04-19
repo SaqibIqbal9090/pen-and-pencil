@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pen and pencil", "pen and pencil\pen and pencil.csproj", "{5766DC63-C7CB-4F0D-9F1B-7D3A538D649A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Pen and Pencil Setup", "Pen and Pencil Setup\Pen and Pencil Setup.vdproj", "{DAB6E9B6-B8F9-4ADE-AF52-2BA9DC4D26B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5766DC63-C7CB-4F0D-9F1B-7D3A538D649A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5766DC63-C7CB-4F0D-9F1B-7D3A538D649A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5766DC63-C7CB-4F0D-9F1B-7D3A538D649A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5766DC63-C7CB-4F0D-9F1B-7D3A538D649A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB6E9B6-B8F9-4ADE-AF52-2BA9DC4D26B6}.Debug|Any CPU.ActiveCfg = Debug
+		{DAB6E9B6-B8F9-4ADE-AF52-2BA9DC4D26B6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {900B5B91-0171-4ABE-8168-B7B52B1B43D8}
+	EndGlobalSection
+EndGlobal
